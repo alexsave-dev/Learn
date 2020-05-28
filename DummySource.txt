@@ -3,9 +3,8 @@ public class Dummy {
     public static void main(String[] args) {
         System.out.println("Master output");
 
-        // Feature one extra functionality
-        System.out.println("Feature one extra output");
-
+        // hotfix to change the functionality
+        System.out.println("Hotfix is adding one more output line");
     }
 
 }
