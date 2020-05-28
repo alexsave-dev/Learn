@@ -5,8 +5,11 @@ public class Dummy {
         // Comment2 from GitHub
         
         // hotfix to change the functionality
-        int count = 1111;
+        int count = 10;
         System.out.println("Hotfix is adding one more output line" + 1);
+
+        // Feature one extra functionality
+        System.out.println("Feature one extra output");
 
         // added from the github
         System.out.println("GitHub extra output");
