@@ -5,6 +5,10 @@ public class Dummy {
 
         // hotfix to change the functionality
         System.out.println("Hotfix is adding one more output line");
+
+        // Feature one extra functionality
+        System.out.println("Feature one extra output");
+
     }
 
 }
