@@ -13,9 +13,6 @@ public class Dummy {
 
         // added from the github
         System.out.println("GitHub extra output");
-
-
-        22222222
         
     }
 
