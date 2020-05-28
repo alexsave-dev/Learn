@@ -1,6 +1,9 @@
 public class Dummy {
 
     public static void main(String[] args) {
+        // Comment1 from GitHub
+        // Comment2 from GitHub
+        
         // hotfix to change the functionality
         System.out.println("Hotfix is adding one more output line");
 
