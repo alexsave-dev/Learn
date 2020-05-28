@@ -9,6 +9,9 @@ public class Dummy {
         // Feature one extra functionality
         System.out.println("Feature one extra output");
 
+        // added from the github
+        System.out.println("GitHub extra output");
+        
     }
 
 }
