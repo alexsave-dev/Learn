@@ -5,7 +5,7 @@ public class Dummy {
         // Comment2 from GitHub
         
         // hotfix to change the functionality
-        int count = 1;
+        int count = 10;
         System.out.println("Hotfix is adding one more output line" + 1);
 
         // Feature one extra functionality
